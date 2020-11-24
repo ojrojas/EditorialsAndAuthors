@@ -1,0 +1,12 @@
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\bin\Debug\netstandard2.1\Infraestructure.deps.json
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\bin\Debug\netstandard2.1\Infraestructure.dll
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\bin\Debug\netstandard2.1\Infraestructure.pdb
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\obj\Debug\netstandard2.1\Infraestructure.csprojAssemblyReference.cache
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\obj\Debug\netstandard2.1\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\obj\Debug\netstandard2.1\Infraestructure.AssemblyInfo.cs
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\obj\Debug\netstandard2.1\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\obj\Debug\netstandard2.1\Infraestructure.csproj.CopyComplete
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\obj\Debug\netstandard2.1\Infraestructure.dll
+C:\Users\oroja\source\repos\MillionAndUp\src\Infraestructure\obj\Debug\netstandard2.1\Infraestructure.pdb

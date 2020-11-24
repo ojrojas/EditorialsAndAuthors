@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\oroja\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\oroja\\.nuget\\packages"
+    ]
+  }
+}
