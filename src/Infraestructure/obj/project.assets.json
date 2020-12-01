@@ -7986,20 +7986,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\oroja\\.nuget\\packages\\": {}
+    "C:\\Users\\oroja\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Infraestructure\\Infraestructure.csproj",
+      "projectUniqueName": "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Infraestructure\\Infraestructure.csproj",
       "projectName": "Infraestructure",
-      "projectPath": "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Infraestructure\\Infraestructure.csproj",
+      "projectPath": "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Infraestructure\\Infraestructure.csproj",
       "packagesPath": "C:\\Users\\oroja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Infraestructure\\obj\\",
+      "outputPath": "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\oroja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -8012,8 +8017,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\Core.csproj"
+            "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\Core.csproj": {
+              "projectPath": "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\Core.csproj"
             }
           }
         }

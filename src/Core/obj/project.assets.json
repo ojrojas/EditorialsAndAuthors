@@ -956,20 +956,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\oroja\\.nuget\\packages\\": {}
+    "C:\\Users\\oroja\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\Core.csproj",
+      "projectUniqueName": "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\Core.csproj",
+      "projectPath": "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\oroja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\obj\\",
+      "outputPath": "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\oroja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"

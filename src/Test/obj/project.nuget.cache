@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "slLHqn7PDu6qQq5eh/U0kege31NRqJBvWG7vr9+fEnp3y+jZimz263ZSozb7lfaCwGbNmNe4B5gjFvi5B3pgSg==",
+  "dgSpecHash": "y4Qlg2cmCCJ/9LKLvJ316fmONkYybCc0AON/4fsr5X6JX19il3pdQZJdoWSUKpdvP9ddAITG51y9XFSC2vKi7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Test\\Test.csproj",
+  "projectFilePath": "c:\\Users\\oroja\\source\\repos\\MillionAndUp\\src\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oroja\\.nuget\\packages\\ardalis.guardclauses\\3.0.1\\ardalis.guardclauses.3.0.1.nupkg.sha512",
     "C:\\Users\\oroja\\.nuget\\packages\\ardalis.specification\\4.1.0\\ardalis.specification.4.1.0.nupkg.sha512",
