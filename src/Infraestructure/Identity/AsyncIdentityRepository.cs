@@ -62,6 +62,7 @@ namespace Infraestructure.Identity
 
         public async Task<ApplicationUser> UpdateApplicationUser(ApplicationUser entity)
         {
+            entity.DecryptedPassword = entity.Password;
             _context.Entry(entity).State = EntityState.Modified;
             await _context.SaveChangesAsync();
             return entity;
